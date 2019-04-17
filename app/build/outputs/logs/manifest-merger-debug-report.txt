@@ -1,0 +1,1085 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6eba60c7633b30e55e4ba7f84b3a9d93\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\bcf1cb47d4b30b7b6ae417f91a13cea4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\4bc3b510e165551cc249b4706b1d92fc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-28.0.0.aar\b1e384bbbb5127d3e562f5932b288e69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\430e9273944ca000e2e7d41ae0b4b66f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b323768cd6f26a2bc386f5f085dee61\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.8.0.aar\fdaa4e4ee7f8eb7770e191b32e1968a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\f13d126dc36f3deb4f8a526dcefebc25\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\rendering-1.8.0.aar\d3d5081dc10581dbf1a2d1de1b570f30\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\2605a4d80a8418339565dabc9468ad3f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\f8bfb5bdc31c365516de4bb9bca5512d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5bc7c7469b6993377691dff2de8cc7fb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\37fec90c53e31a026fdb470a9478676f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\140aa0b688b50b3e7bea55caf49b481b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-12.0.1.aar\210e226ae2d70f48d1d4a168196d96a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\995814b8bec607a2dd970d779e88603a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\a6744ea6780bb26e519281ad66709da6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\e8e3dbb9fc48d8b0c3d2f17e7a637055\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\39a0accc641f82f629718a1352f58c90\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\540c7a220416505c54b98a73cec8e2bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\587c0e8e92534da8ec2b8d2d5803f443\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\939ff69fa15f3a4e3d90daf5cbfb29ec\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\b672d4f318d1f6adb22fa50b18e79310\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\196f4aa5aa650286f87ba5d45ad1db8d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-12.0.1.aar\3d06ba2270ada021338be0a02ea599ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\b4f6348da9b944172d66337df2141579\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-12.0.1.aar\c2a7b31c62eb49dd1892946855bfd247\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\25600433b19fff75dc55154cdb5bd304\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\39f0469a59a6051a2fff95424b303179\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\036988add572c26e1415bbd00b19a53f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\6910719cc734abed2edd923d585bbdd7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\55e44b3375d19629ff337392c5ce632f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\2ac746b1faa4b1637df0c379736954f0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\afc14b4b3279be27ee9203a078909d75\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\e4ee5f667a197db14856ada530a205ce\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\5d3329b6c85cf7f3d5cfa6e049e52069\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\0de19e066bf2f236c4fd042bef9d680f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\ace9df99b0c3c63780557caa2ed31f00\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\5a8943beef8dc816dc5c6aa21e814107\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\73d8e16eedd6891bb9a61869d84b13a8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\3a5172cabff4c2e24dd29e132727d06b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b8d5d0b93d9749d0ee28ac0dec94a03a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8098c1029196ed561d12b134cf1d9966\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3ce79c639ef8c558dbd24f8e0c3fda86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6afafebcbc9e807780e2bfd10643965e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\28f3c600c4aca77d5db855a5ad00e42d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bd853152a242ac6cde5f875592c195bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5dbaae00a09c17f254be886ca5b7e89b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\35f9dde306b8d380eefce03101d2d348\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\75729cefb163a3be95e1f77b7a17afc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\69a4be2e7498799df69c4ead02e2d40d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e3ad2a2fbd6c0c6a89dbfddee459d28d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4b9ea0437b8a58762bfd126aecc4c2c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\152704750786aabecc4b6e010c83e6ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9852d01c5d5436a983b76df311aaa222\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\12218b07c75d9f80ca18b8440df416e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6fafaf63510b797bd284b6252e618cef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\22e3d91a539eb632f2577f3645295858\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78db281fa2cd115619e2ad58e0707ce\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d6100fd5ec4600f83d9f8957d6460e2e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3f7722f9a8744b503c675bf79d716501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f18458340e7e88fa5efdb75f57f47b77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3182b618c68993b7e64b10d83dec4757\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c67244211cea78869665c940eebcb667\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7b3d2cdf149b3fe1474bda76914f95a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e347aa40b935dade99f1be99b3abbf3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0d9e850782d4a5b48b23c972d97c358\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b93014ae0de5085fc9e899671d49cc91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3f1a8d32a3146d1631ce6cc7628007ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0784dcea245d400014542211c092b349\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\565e3624335e8e610c791c76c6a1e18c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f2f400d9a85f5da0cacd867e20d10eed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.8.0.aar\29ddeac50c36561084c4d43f3267e1e6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\filament-android-1.8.0.aar\489ef003c05e4ae5cb2b9c13330b32a7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\5b70958ea10c19d08c3c023d0196b862\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\d965a4e5a9981f093464a915ac3f36db\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\710b9c478b586fd5dbe7c28b0c81d7ce\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\5688423c87f8eb79505165907b87ba43\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\cef6fcffa3d2b58380fd58f0f6426b2e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c06b0feafdf0f022250bd027e53c6a6a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\004dc1c632a84537a57d37d88c35c898\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\c3692e5e00f0cfa869525d18d0c9029a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\c593141ee4d4d1fe47babe06acdae806\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\b5e3bcd43a7da02dcbe574d2e9e1ee85\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\820fad8f0bb5c937b70a0dab4a6e474e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\9ee385cbaf7ab4c3ebc624d67edce4aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\6a07503b2107240866d02f3665de622d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\3ffbbcecf5c7a0247d7939a61e8aa108\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\c5e8255d8d6ede5854bc33cffa365be9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\06b3e69a835cc5718ea9599225a19e64\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\3c2c3db1e9407a609ce8200df413a461\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\805a26d78a654ad7e40e1414e1590993\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\1ff19b253aba1a9471458780df2e24bd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\30198222aeeee43e08a015eabda675a7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\a92348a73211bad70c700cdc1c540faf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\bb3da095bd350eb6d7d34eccb3738010\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\e84af2b656e78542bdcef1b0d7fbfeab\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\bfe4984d7fae99c37a701fd0f7d15d61\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\3dca91ec9c1e65f86837fd7b138bc110\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\c66a95ae2f1cf692e385875839a920c6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\75326a11fc01ed785e8af6030869ed1b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\0e3b3e9db0929f3225a3ecd2bdbc0b25\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\18423c1400d1e5732055537f8e422442\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\69e1c16b6b86f4c69913f01f8f7efb9e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\2adbaf2d7d73fa7202b5adbe7aac7db6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\0de3dbe2cc58384caa15ee493818b37e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\6321b928a7012469c55717e613b5ac53\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\1a678aefb36325f23865e417d1e25867\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\2dba57bae8c116c2a0f75cbdf5d8f089\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\ace8e97279c331db67950181742aafef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\36ca0ce21c4fc84819677f2ee521d31f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\40c42326193f4d7478a944c61950baaf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\925114fd6b7739cacd87ead8c2e7780d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\db8ea22f6d543f38c6037d8f8b8969d6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\183881b45b86d2283b7a6dadc7dd4c2e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\09b5cdcf479e3dfbd199180e51d92a22\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\78b1780fb2843e4b2e93e8e7865f0212\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\7e498c7b1487b7840b2ee3025a3ff1c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\fe56414518ff289aaa8db3eea9f46934\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\34cabfd1fa87a0b27a7fbeec35742edd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\7f2a244409580b02d1510b160fb72c70\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\03b3417ba41768e00a2399a3a11457bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\919a657e8932311ed4a76c7b21fa0fbf\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:4:5-64
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:7:5-86
+	android:required
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:7:61-84
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:7:19-60
+application
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6eba60c7633b30e55e4ba7f84b3a9d93\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6eba60c7633b30e55e4ba7f84b3a9d93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\bcf1cb47d4b30b7b6ae417f91a13cea4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\bcf1cb47d4b30b7b6ae417f91a13cea4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\4bc3b510e165551cc249b4706b1d92fc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\4bc3b510e165551cc249b4706b1d92fc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b323768cd6f26a2bc386f5f085dee61\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b323768cd6f26a2bc386f5f085dee61\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\2605a4d80a8418339565dabc9468ad3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\2605a4d80a8418339565dabc9468ad3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\f8bfb5bdc31c365516de4bb9bca5512d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\f8bfb5bdc31c365516de4bb9bca5512d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5bc7c7469b6993377691dff2de8cc7fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5bc7c7469b6993377691dff2de8cc7fb\AndroidManifest.xml:7:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\37fec90c53e31a026fdb470a9478676f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\37fec90c53e31a026fdb470a9478676f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\995814b8bec607a2dd970d779e88603a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\995814b8bec607a2dd970d779e88603a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\39a0accc641f82f629718a1352f58c90\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\39a0accc641f82f629718a1352f58c90\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\540c7a220416505c54b98a73cec8e2bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\540c7a220416505c54b98a73cec8e2bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\587c0e8e92534da8ec2b8d2d5803f443\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\587c0e8e92534da8ec2b8d2d5803f443\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\939ff69fa15f3a4e3d90daf5cbfb29ec\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\939ff69fa15f3a4e3d90daf5cbfb29ec\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\b672d4f318d1f6adb22fa50b18e79310\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\b672d4f318d1f6adb22fa50b18e79310\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\196f4aa5aa650286f87ba5d45ad1db8d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\196f4aa5aa650286f87ba5d45ad1db8d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\b4f6348da9b944172d66337df2141579\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\b4f6348da9b944172d66337df2141579\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\25600433b19fff75dc55154cdb5bd304\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\25600433b19fff75dc55154cdb5bd304\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\39f0469a59a6051a2fff95424b303179\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\39f0469a59a6051a2fff95424b303179\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\036988add572c26e1415bbd00b19a53f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\036988add572c26e1415bbd00b19a53f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\6910719cc734abed2edd923d585bbdd7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\6910719cc734abed2edd923d585bbdd7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\55e44b3375d19629ff337392c5ce632f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\55e44b3375d19629ff337392c5ce632f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\2ac746b1faa4b1637df0c379736954f0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\2ac746b1faa4b1637df0c379736954f0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\afc14b4b3279be27ee9203a078909d75\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\afc14b4b3279be27ee9203a078909d75\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\5a8943beef8dc816dc5c6aa21e814107\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\5a8943beef8dc816dc5c6aa21e814107\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\73d8e16eedd6891bb9a61869d84b13a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\73d8e16eedd6891bb9a61869d84b13a8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78db281fa2cd115619e2ad58e0707ce\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78db281fa2cd115619e2ad58e0707ce\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d6100fd5ec4600f83d9f8957d6460e2e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d6100fd5ec4600f83d9f8957d6460e2e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f2f400d9a85f5da0cacd867e20d10eed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f2f400d9a85f5da0cacd867e20d10eed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\5b70958ea10c19d08c3c023d0196b862\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\5b70958ea10c19d08c3c023d0196b862\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\d965a4e5a9981f093464a915ac3f36db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\d965a4e5a9981f093464a915ac3f36db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\710b9c478b586fd5dbe7c28b0c81d7ce\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\710b9c478b586fd5dbe7c28b0c81d7ce\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\5688423c87f8eb79505165907b87ba43\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\5688423c87f8eb79505165907b87ba43\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\cef6fcffa3d2b58380fd58f0f6426b2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\cef6fcffa3d2b58380fd58f0f6426b2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c06b0feafdf0f022250bd027e53c6a6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c06b0feafdf0f022250bd027e53c6a6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\004dc1c632a84537a57d37d88c35c898\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\004dc1c632a84537a57d37d88c35c898\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\c3692e5e00f0cfa869525d18d0c9029a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\c3692e5e00f0cfa869525d18d0c9029a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\c593141ee4d4d1fe47babe06acdae806\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\c593141ee4d4d1fe47babe06acdae806\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\b5e3bcd43a7da02dcbe574d2e9e1ee85\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\b5e3bcd43a7da02dcbe574d2e9e1ee85\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\820fad8f0bb5c937b70a0dab4a6e474e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\820fad8f0bb5c937b70a0dab4a6e474e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\9ee385cbaf7ab4c3ebc624d67edce4aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\9ee385cbaf7ab4c3ebc624d67edce4aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\6a07503b2107240866d02f3665de622d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\6a07503b2107240866d02f3665de622d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\3ffbbcecf5c7a0247d7939a61e8aa108\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\3ffbbcecf5c7a0247d7939a61e8aa108\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\c5e8255d8d6ede5854bc33cffa365be9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\c5e8255d8d6ede5854bc33cffa365be9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\06b3e69a835cc5718ea9599225a19e64\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\06b3e69a835cc5718ea9599225a19e64\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\3c2c3db1e9407a609ce8200df413a461\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\3c2c3db1e9407a609ce8200df413a461\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\805a26d78a654ad7e40e1414e1590993\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\805a26d78a654ad7e40e1414e1590993\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\1ff19b253aba1a9471458780df2e24bd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\1ff19b253aba1a9471458780df2e24bd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\30198222aeeee43e08a015eabda675a7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\30198222aeeee43e08a015eabda675a7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\a92348a73211bad70c700cdc1c540faf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\a92348a73211bad70c700cdc1c540faf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\bb3da095bd350eb6d7d34eccb3738010\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\bb3da095bd350eb6d7d34eccb3738010\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\e84af2b656e78542bdcef1b0d7fbfeab\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\e84af2b656e78542bdcef1b0d7fbfeab\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\bfe4984d7fae99c37a701fd0f7d15d61\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\bfe4984d7fae99c37a701fd0f7d15d61\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\3dca91ec9c1e65f86837fd7b138bc110\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\3dca91ec9c1e65f86837fd7b138bc110\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\c66a95ae2f1cf692e385875839a920c6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\c66a95ae2f1cf692e385875839a920c6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\75326a11fc01ed785e8af6030869ed1b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\75326a11fc01ed785e8af6030869ed1b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\0e3b3e9db0929f3225a3ecd2bdbc0b25\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\0e3b3e9db0929f3225a3ecd2bdbc0b25\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\18423c1400d1e5732055537f8e422442\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\18423c1400d1e5732055537f8e422442\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\69e1c16b6b86f4c69913f01f8f7efb9e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\69e1c16b6b86f4c69913f01f8f7efb9e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\2adbaf2d7d73fa7202b5adbe7aac7db6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\2adbaf2d7d73fa7202b5adbe7aac7db6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\0de3dbe2cc58384caa15ee493818b37e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\0de3dbe2cc58384caa15ee493818b37e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\6321b928a7012469c55717e613b5ac53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\6321b928a7012469c55717e613b5ac53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\1a678aefb36325f23865e417d1e25867\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\1a678aefb36325f23865e417d1e25867\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\2dba57bae8c116c2a0f75cbdf5d8f089\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\2dba57bae8c116c2a0f75cbdf5d8f089\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\ace8e97279c331db67950181742aafef\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\ace8e97279c331db67950181742aafef\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\36ca0ce21c4fc84819677f2ee521d31f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\36ca0ce21c4fc84819677f2ee521d31f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\40c42326193f4d7478a944c61950baaf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\40c42326193f4d7478a944c61950baaf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\925114fd6b7739cacd87ead8c2e7780d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\925114fd6b7739cacd87ead8c2e7780d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\db8ea22f6d543f38c6037d8f8b8969d6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\db8ea22f6d543f38c6037d8f8b8969d6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\183881b45b86d2283b7a6dadc7dd4c2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\183881b45b86d2283b7a6dadc7dd4c2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\09b5cdcf479e3dfbd199180e51d92a22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\09b5cdcf479e3dfbd199180e51d92a22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\78b1780fb2843e4b2e93e8e7865f0212\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\78b1780fb2843e4b2e93e8e7865f0212\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\7e498c7b1487b7840b2ee3025a3ff1c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\7e498c7b1487b7840b2ee3025a3ff1c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\fe56414518ff289aaa8db3eea9f46934\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\fe56414518ff289aaa8db3eea9f46934\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\34cabfd1fa87a0b27a7fbeec35742edd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\34cabfd1fa87a0b27a7fbeec35742edd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\7f2a244409580b02d1510b160fb72c70\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\7f2a244409580b02d1510b160fb72c70\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\03b3417ba41768e00a2399a3a11457bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\03b3417ba41768e00a2399a3a11457bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\919a657e8932311ed4a76c7b21fa0fbf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\919a657e8932311ed4a76c7b21fa0fbf\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78db281fa2cd115619e2ad58e0707ce\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:17:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:15:9-44
+meta-data#com.google.ar.core
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:18:9-80
+	android:value
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:18:54-78
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:18:20-53
+activity#com.example.setlocalposition.MainActivity
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6eba60c7633b30e55e4ba7f84b3a9d93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6eba60c7633b30e55e4ba7f84b3a9d93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\bcf1cb47d4b30b7b6ae417f91a13cea4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\bcf1cb47d4b30b7b6ae417f91a13cea4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\4bc3b510e165551cc249b4706b1d92fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\4bc3b510e165551cc249b4706b1d92fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-28.0.0.aar\b1e384bbbb5127d3e562f5932b288e69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-28.0.0.aar\b1e384bbbb5127d3e562f5932b288e69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\430e9273944ca000e2e7d41ae0b4b66f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\430e9273944ca000e2e7d41ae0b4b66f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b323768cd6f26a2bc386f5f085dee61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b323768cd6f26a2bc386f5f085dee61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.8.0.aar\fdaa4e4ee7f8eb7770e191b32e1968a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.8.0.aar\fdaa4e4ee7f8eb7770e191b32e1968a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\f13d126dc36f3deb4f8a526dcefebc25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\f13d126dc36f3deb4f8a526dcefebc25\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\rendering-1.8.0.aar\d3d5081dc10581dbf1a2d1de1b570f30\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\rendering-1.8.0.aar\d3d5081dc10581dbf1a2d1de1b570f30\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\2605a4d80a8418339565dabc9468ad3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\2605a4d80a8418339565dabc9468ad3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\f8bfb5bdc31c365516de4bb9bca5512d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\f8bfb5bdc31c365516de4bb9bca5512d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5bc7c7469b6993377691dff2de8cc7fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\5bc7c7469b6993377691dff2de8cc7fb\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\37fec90c53e31a026fdb470a9478676f\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\37fec90c53e31a026fdb470a9478676f\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\140aa0b688b50b3e7bea55caf49b481b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\140aa0b688b50b3e7bea55caf49b481b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-12.0.1.aar\210e226ae2d70f48d1d4a168196d96a6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-12.0.1.aar\210e226ae2d70f48d1d4a168196d96a6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\995814b8bec607a2dd970d779e88603a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\995814b8bec607a2dd970d779e88603a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\a6744ea6780bb26e519281ad66709da6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\a6744ea6780bb26e519281ad66709da6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\e8e3dbb9fc48d8b0c3d2f17e7a637055\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\e8e3dbb9fc48d8b0c3d2f17e7a637055\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\39a0accc641f82f629718a1352f58c90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\39a0accc641f82f629718a1352f58c90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\540c7a220416505c54b98a73cec8e2bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\540c7a220416505c54b98a73cec8e2bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\587c0e8e92534da8ec2b8d2d5803f443\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\587c0e8e92534da8ec2b8d2d5803f443\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\939ff69fa15f3a4e3d90daf5cbfb29ec\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\939ff69fa15f3a4e3d90daf5cbfb29ec\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\b672d4f318d1f6adb22fa50b18e79310\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\b672d4f318d1f6adb22fa50b18e79310\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\196f4aa5aa650286f87ba5d45ad1db8d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\196f4aa5aa650286f87ba5d45ad1db8d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-12.0.1.aar\3d06ba2270ada021338be0a02ea599ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-12.0.1.aar\3d06ba2270ada021338be0a02ea599ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\b4f6348da9b944172d66337df2141579\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\b4f6348da9b944172d66337df2141579\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-12.0.1.aar\c2a7b31c62eb49dd1892946855bfd247\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-12.0.1.aar\c2a7b31c62eb49dd1892946855bfd247\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\25600433b19fff75dc55154cdb5bd304\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\25600433b19fff75dc55154cdb5bd304\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\39f0469a59a6051a2fff95424b303179\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\39f0469a59a6051a2fff95424b303179\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\036988add572c26e1415bbd00b19a53f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\036988add572c26e1415bbd00b19a53f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\6910719cc734abed2edd923d585bbdd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\6910719cc734abed2edd923d585bbdd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\55e44b3375d19629ff337392c5ce632f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\55e44b3375d19629ff337392c5ce632f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\2ac746b1faa4b1637df0c379736954f0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\2ac746b1faa4b1637df0c379736954f0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\afc14b4b3279be27ee9203a078909d75\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\afc14b4b3279be27ee9203a078909d75\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\fb18f3859dbd4e453740f5b99d6ef95f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\e4ee5f667a197db14856ada530a205ce\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\e4ee5f667a197db14856ada530a205ce\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\5d3329b6c85cf7f3d5cfa6e049e52069\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\5d3329b6c85cf7f3d5cfa6e049e52069\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\0de19e066bf2f236c4fd042bef9d680f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\0de19e066bf2f236c4fd042bef9d680f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\ace9df99b0c3c63780557caa2ed31f00\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\ace9df99b0c3c63780557caa2ed31f00\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\5a8943beef8dc816dc5c6aa21e814107\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\5a8943beef8dc816dc5c6aa21e814107\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\73d8e16eedd6891bb9a61869d84b13a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\73d8e16eedd6891bb9a61869d84b13a8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\3a5172cabff4c2e24dd29e132727d06b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\3a5172cabff4c2e24dd29e132727d06b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b8d5d0b93d9749d0ee28ac0dec94a03a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b8d5d0b93d9749d0ee28ac0dec94a03a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8098c1029196ed561d12b134cf1d9966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8098c1029196ed561d12b134cf1d9966\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3ce79c639ef8c558dbd24f8e0c3fda86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\3ce79c639ef8c558dbd24f8e0c3fda86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6afafebcbc9e807780e2bfd10643965e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6afafebcbc9e807780e2bfd10643965e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\28f3c600c4aca77d5db855a5ad00e42d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\palette-v7-28.0.0.aar\28f3c600c4aca77d5db855a5ad00e42d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bd853152a242ac6cde5f875592c195bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bd853152a242ac6cde5f875592c195bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5dbaae00a09c17f254be886ca5b7e89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5dbaae00a09c17f254be886ca5b7e89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\35f9dde306b8d380eefce03101d2d348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\35f9dde306b8d380eefce03101d2d348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\75729cefb163a3be95e1f77b7a17afc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\75729cefb163a3be95e1f77b7a17afc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\69a4be2e7498799df69c4ead02e2d40d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\69a4be2e7498799df69c4ead02e2d40d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e3ad2a2fbd6c0c6a89dbfddee459d28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e3ad2a2fbd6c0c6a89dbfddee459d28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4b9ea0437b8a58762bfd126aecc4c2c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\4b9ea0437b8a58762bfd126aecc4c2c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\152704750786aabecc4b6e010c83e6ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\152704750786aabecc4b6e010c83e6ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9852d01c5d5436a983b76df311aaa222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9852d01c5d5436a983b76df311aaa222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\12218b07c75d9f80ca18b8440df416e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\12218b07c75d9f80ca18b8440df416e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6fafaf63510b797bd284b6252e618cef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6fafaf63510b797bd284b6252e618cef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\22e3d91a539eb632f2577f3645295858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\22e3d91a539eb632f2577f3645295858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78db281fa2cd115619e2ad58e0707ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78db281fa2cd115619e2ad58e0707ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d6100fd5ec4600f83d9f8957d6460e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d6100fd5ec4600f83d9f8957d6460e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3f7722f9a8744b503c675bf79d716501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3f7722f9a8744b503c675bf79d716501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f18458340e7e88fa5efdb75f57f47b77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f18458340e7e88fa5efdb75f57f47b77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3182b618c68993b7e64b10d83dec4757\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3182b618c68993b7e64b10d83dec4757\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c67244211cea78869665c940eebcb667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c67244211cea78869665c940eebcb667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7b3d2cdf149b3fe1474bda76914f95a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7b3d2cdf149b3fe1474bda76914f95a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e347aa40b935dade99f1be99b3abbf3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e347aa40b935dade99f1be99b3abbf3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0d9e850782d4a5b48b23c972d97c358\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e0d9e850782d4a5b48b23c972d97c358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b93014ae0de5085fc9e899671d49cc91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b93014ae0de5085fc9e899671d49cc91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3f1a8d32a3146d1631ce6cc7628007ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3f1a8d32a3146d1631ce6cc7628007ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0784dcea245d400014542211c092b349\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0784dcea245d400014542211c092b349\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\565e3624335e8e610c791c76c6a1e18c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\565e3624335e8e610c791c76c6a1e18c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f2f400d9a85f5da0cacd867e20d10eed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f2f400d9a85f5da0cacd867e20d10eed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.8.0.aar\29ddeac50c36561084c4d43f3267e1e6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.8.0.aar\29ddeac50c36561084c4d43f3267e1e6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\filament-android-1.8.0.aar\489ef003c05e4ae5cb2b9c13330b32a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\filament-android-1.8.0.aar\489ef003c05e4ae5cb2b9c13330b32a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\5b70958ea10c19d08c3c023d0196b862\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\5b70958ea10c19d08c3c023d0196b862\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\d965a4e5a9981f093464a915ac3f36db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\d965a4e5a9981f093464a915ac3f36db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\710b9c478b586fd5dbe7c28b0c81d7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\710b9c478b586fd5dbe7c28b0c81d7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\5688423c87f8eb79505165907b87ba43\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\5688423c87f8eb79505165907b87ba43\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\cef6fcffa3d2b58380fd58f0f6426b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\cef6fcffa3d2b58380fd58f0f6426b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c06b0feafdf0f022250bd027e53c6a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c06b0feafdf0f022250bd027e53c6a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\004dc1c632a84537a57d37d88c35c898\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\004dc1c632a84537a57d37d88c35c898\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\c3692e5e00f0cfa869525d18d0c9029a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\c3692e5e00f0cfa869525d18d0c9029a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\c593141ee4d4d1fe47babe06acdae806\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\c593141ee4d4d1fe47babe06acdae806\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\b5e3bcd43a7da02dcbe574d2e9e1ee85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\b5e3bcd43a7da02dcbe574d2e9e1ee85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\820fad8f0bb5c937b70a0dab4a6e474e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\820fad8f0bb5c937b70a0dab4a6e474e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\9ee385cbaf7ab4c3ebc624d67edce4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\9ee385cbaf7ab4c3ebc624d67edce4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\6a07503b2107240866d02f3665de622d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\6a07503b2107240866d02f3665de622d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\3ffbbcecf5c7a0247d7939a61e8aa108\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\3ffbbcecf5c7a0247d7939a61e8aa108\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\c5e8255d8d6ede5854bc33cffa365be9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\c5e8255d8d6ede5854bc33cffa365be9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\06b3e69a835cc5718ea9599225a19e64\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\06b3e69a835cc5718ea9599225a19e64\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\3c2c3db1e9407a609ce8200df413a461\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\3c2c3db1e9407a609ce8200df413a461\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\805a26d78a654ad7e40e1414e1590993\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\805a26d78a654ad7e40e1414e1590993\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\1ff19b253aba1a9471458780df2e24bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\1ff19b253aba1a9471458780df2e24bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\30198222aeeee43e08a015eabda675a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\30198222aeeee43e08a015eabda675a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\a92348a73211bad70c700cdc1c540faf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\a92348a73211bad70c700cdc1c540faf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\bb3da095bd350eb6d7d34eccb3738010\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\bb3da095bd350eb6d7d34eccb3738010\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\e84af2b656e78542bdcef1b0d7fbfeab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\e84af2b656e78542bdcef1b0d7fbfeab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\bfe4984d7fae99c37a701fd0f7d15d61\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\bfe4984d7fae99c37a701fd0f7d15d61\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\3dca91ec9c1e65f86837fd7b138bc110\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\3dca91ec9c1e65f86837fd7b138bc110\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\c66a95ae2f1cf692e385875839a920c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\c66a95ae2f1cf692e385875839a920c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\75326a11fc01ed785e8af6030869ed1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\75326a11fc01ed785e8af6030869ed1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\0e3b3e9db0929f3225a3ecd2bdbc0b25\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\0e3b3e9db0929f3225a3ecd2bdbc0b25\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\18423c1400d1e5732055537f8e422442\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\18423c1400d1e5732055537f8e422442\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\69e1c16b6b86f4c69913f01f8f7efb9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\69e1c16b6b86f4c69913f01f8f7efb9e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\2adbaf2d7d73fa7202b5adbe7aac7db6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\2adbaf2d7d73fa7202b5adbe7aac7db6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\0de3dbe2cc58384caa15ee493818b37e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\0de3dbe2cc58384caa15ee493818b37e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\6321b928a7012469c55717e613b5ac53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\6321b928a7012469c55717e613b5ac53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\1a678aefb36325f23865e417d1e25867\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\1a678aefb36325f23865e417d1e25867\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\2dba57bae8c116c2a0f75cbdf5d8f089\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\2dba57bae8c116c2a0f75cbdf5d8f089\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\ace8e97279c331db67950181742aafef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\ace8e97279c331db67950181742aafef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\36ca0ce21c4fc84819677f2ee521d31f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\36ca0ce21c4fc84819677f2ee521d31f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\40c42326193f4d7478a944c61950baaf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\40c42326193f4d7478a944c61950baaf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\925114fd6b7739cacd87ead8c2e7780d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\925114fd6b7739cacd87ead8c2e7780d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\db8ea22f6d543f38c6037d8f8b8969d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\db8ea22f6d543f38c6037d8f8b8969d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\183881b45b86d2283b7a6dadc7dd4c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\183881b45b86d2283b7a6dadc7dd4c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\09b5cdcf479e3dfbd199180e51d92a22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\09b5cdcf479e3dfbd199180e51d92a22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\78b1780fb2843e4b2e93e8e7865f0212\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\78b1780fb2843e4b2e93e8e7865f0212\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\7e498c7b1487b7840b2ee3025a3ff1c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\7e498c7b1487b7840b2ee3025a3ff1c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\fe56414518ff289aaa8db3eea9f46934\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\fe56414518ff289aaa8db3eea9f46934\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\34cabfd1fa87a0b27a7fbeec35742edd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\34cabfd1fa87a0b27a7fbeec35742edd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\7f2a244409580b02d1510b160fb72c70\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\7f2a244409580b02d1510b160fb72c70\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\03b3417ba41768e00a2399a3a11457bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\03b3417ba41768e00a2399a3a11457bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\919a657e8932311ed4a76c7b21fa0fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\919a657e8932311ed4a76c7b21fa0fbf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\140aa0b688b50b3e7bea55caf49b481b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\techolution\Downloads\SetLocalPosition-master\SetLocalPosition-master\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\e377c4395874e28e1981c601905c38bf\AndroidManifest.xml:11:18-90
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.8.0] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\core-1.8.0.aar\d0767fc81d5f3beefb0b53ed9e0f0cd2\AndroidManifest.xml:38:13-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\e504865acfa687785a8f01dc74b0f056\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\1ccc825314fe6495afc5e441aee34fee\AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\5daa88014a88f44a10077386d3145124\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\e086344183af9327ad516481769fbaa6\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\5b212a92dcbd023788b4a82a0f77f93c\AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\b905ea139d9dfe5608c733949455f593\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\4f8746f69fbb4d19caddad5a87e3d80a\AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\50c3f762fefc4c9e05dc4a12dc7dc662\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\5272e3f057da7e700b32d1c02605a2d7\AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\9b35300a0cefe1e1654fa50bfb32f776\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1d5a052d8909db42ea74d2119ae5b89\AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\a4e228b3908dcabf62cb422afdef065c\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.example.setlocalposition
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\97a88e727171baa6de36c04d04eac074\AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\23428fe4a351ec2ae9e13e94938e1173\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\192dabf958225adc1255748c4920d039\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:29:9-63
+permission#com.example.setlocalposition.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:32:22-76
+uses-permission#com.example.setlocalposition.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.setlocalposition
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:42:27-58
+category#com.example.setlocalposition
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\214c33a75b5ca4d79de2ce1c11c50211\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\1d3441ffd130f053c17e72ad2bace570\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\techolution\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\d76aa3a247761afa7809d72c0c581e5b\AndroidManifest.xml:24:13-58
