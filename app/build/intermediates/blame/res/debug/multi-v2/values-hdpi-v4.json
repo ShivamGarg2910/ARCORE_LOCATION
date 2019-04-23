@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\techolution\\Downloads\\SetLocalPosition-master\\SetLocalPosition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\Shivam Garg\\Documents\\LIC\\SetLocalPosition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\techolution\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\430e9273944ca000e2e7d41ae0b4b66f\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\Shivam Garg\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\fe9e3341c8224880ea8d234290166116\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

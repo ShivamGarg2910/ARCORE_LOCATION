@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\techolution\\Downloads\\SetLocalPosition-master\\SetLocalPosition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+            "outputFile": "C:\\Users\\Shivam Garg\\Documents\\LIC\\SetLocalPosition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\techolution\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.8.0.aar\\d0767fc81d5f3beefb0b53ed9e0f0cd2\\res\\values-en-rSG\\values.xml",
+                    "source": "C:\\Users\\Shivam Garg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.8.0.aar\\30c7e789b338a3ca303ba038159fca1e\\res\\values-en-rSG\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\techolution\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-12.0.1.aar\\3d06ba2270ada021338be0a02ea599ef\\res\\values-en-rSG\\values.xml",
+                    "source": "C:\\Users\\Shivam Garg\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-12.0.1.aar\\fd4a2bc20ecf9e28aea8678e2c0f27d2\\res\\values-en-rSG\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

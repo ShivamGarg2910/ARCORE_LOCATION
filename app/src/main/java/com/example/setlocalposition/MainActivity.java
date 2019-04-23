@@ -86,8 +86,8 @@ public class MainActivity<client> extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        lat =12.8233558;
-        lon =80.0423585;
+        lat = 12.8233558;
+        lon = 80.0423585;
         arFragment = (ArFragment) getSupportFragmentManager().findFragmentById(R.id.ux_fragment);
 
         getData();
@@ -104,7 +104,7 @@ public class MainActivity<client> extends AppCompatActivity {
                     return null;
                 });
 
-
+        {
 
         /*try {
             if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
@@ -228,7 +228,7 @@ public class MainActivity<client> extends AppCompatActivity {
         str.append(" and select a surface");*/
 
 
-
+    }
 
 
 
@@ -241,7 +241,7 @@ public class MainActivity<client> extends AppCompatActivity {
 
                     Anchor anchor = hitresult.createAnchor();
                     AnchorNode anchorNode = new AnchorNode(anchor);
-                    anchorNode.setLocalPosition(Vector3.zero());
+                    //anchorNode.setLocalPosition(Vector3.zero());
                     anchorNode.setParent(arFragment.getArSceneView().getScene());
 
                     Node temp2 = new Node();
@@ -250,6 +250,7 @@ public class MainActivity<client> extends AppCompatActivity {
                     temp2.setRenderable(lampPostRenderable);
         double x;
         double z;
+        // saari values bohot choti hain
         if(sortingList.size()==0)
         {
             Toast toast = Toast.makeText(this, "no location", Toast.LENGTH_LONG);
@@ -258,10 +259,11 @@ public class MainActivity<client> extends AppCompatActivity {
             Toast toast = Toast.makeText(this, sortingList.size()+"", Toast.LENGTH_LONG);
             toast.show();
         }
+        double a = (double) sortingList.get(0).getDis();
         if(sortingList.size()!=0) {
-            for (int i = 0; i < sortingList.size(); i++) {
+            for (int i = 1; i < sortingList.size(); i++) {  // looping 1 se start kari hai kyonki 0 toh already apan tap karenge isliye nahi chal rahe tha
                 double B = getAngle(sortingList.get(0), sortingList.get(i), 'b');
-                B = Math.toRadians(B);
+                B = Math.toRadians(B); //baar baar radians mein kyon change kar raha hai
                 double C = getAngle(sortingList.get(0), sortingList.get(i), 'c');
                 C = Math.toRadians(C);
                 double c = 0;
@@ -269,7 +271,7 @@ public class MainActivity<client> extends AppCompatActivity {
                 c = getDistance((double) sortingList.get(0).getLat(), (double) sortingList.get(i).getLat(), (double) sortingList.get(0).getLon(),
                         (double) sortingList.get(i).getLon());
 
-                double a = (double) sortingList.get(0).getDis();
+
                 double b = (double) sortingList.get(i).getDis();
 
 
@@ -293,14 +295,23 @@ public class MainActivity<client> extends AppCompatActivity {
                 }
                 x /= 10;
                 z /= 10;
+                //if(i%4==0){ //try this condition
 
                 Node temp3 = new Node();
                 temp3.setLocalPosition(new Vector3((float) x, 2f, (float) z));
                 temp3.setParent(anchorNode);
                 temp3.setRenderable(lampPostRenderable);
-                TextView txt_name = (TextView) txtbox1.getView();
-                txt_name.setText(sortingList.get(i).getLat().toString());
-                txt_name.setOnClickListener(v -> anchorNode.setParent(null));
+                Log.i("hello1","this is renderable"+i);
+
+                /*TextView txt_name = (TextView) txtbox1.getView(); // too fast for rendering faster compared to lampPostrenderable
+                txt_name.setText(sortingList.get(i).getName());txt_name.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            anchorNode.setParent(null);
+                        }
+                    });
+                }*/
+               // Log.i("helloo21","this is renderable not"+i);
 
 
             }
@@ -406,7 +417,7 @@ public class MainActivity<client> extends AppCompatActivity {
                                     return valA.compareTo(valB);
                                 } else return 1;
                             });
-                            Log.i("ress","heelloo   "+sortingList.get(0).getDis());
+                            //Log.i("ress","heelloo   "+sortingList.get(0).getDis()+" "+sortingList.get(1).getDis()+" "+sortingList.get(2).getDis());
 
                             // Collections.sort(sortingList, );
 
@@ -432,7 +443,7 @@ public class MainActivity<client> extends AppCompatActivity {
             c = Math.pow(c, 2);
             angle=(a-b+c)/den;
 
-           // Log.i("ffff",angle+"  den "+den+"  a"+a+"     b"+b+"   c"+c);
+           Log.i("ffff",angle+"  den "+den+"  a"+a+"     b"+b+"   c"+c);
 
         }
         else if(x=='c')
@@ -442,7 +453,7 @@ public class MainActivity<client> extends AppCompatActivity {
             b = Math.pow(b, 2);
             c = Math.pow(c, 2);
             angle=(a+b-c)/den;
-            //Log.i("angle",angle+"");
+            Log.i("angle",angle+"");
         }
         else if(x=='a')
         {
@@ -454,8 +465,12 @@ public class MainActivity<client> extends AppCompatActivity {
         }
 
         angle=Math.toRadians(angle);
-       // Log.i("ttd",angle+""+x);
+        Log.i("ttd",angle+""+x);
         return angle;
+        // see line comment 266
+        // see all comments
+        // location abhi manual daali hai
+        // api mein bhi values manual hai
 
 
     }
