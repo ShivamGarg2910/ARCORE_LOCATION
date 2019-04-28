@@ -91,6 +91,11 @@ public class MainActivity<client> extends AppCompatActivity {
         arFragment = (ArFragment) getSupportFragmentManager().findFragmentById(R.id.ux_fragment);
 
         getData();
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable -> txtbox1 =renderable);
+
 
         ModelRenderable.builder()
                 .setSource(this, Uri.parse("Picture frame.sfb"))
@@ -244,10 +249,6 @@ public class MainActivity<client> extends AppCompatActivity {
                     //anchorNode.setLocalPosition(Vector3.zero());
                     anchorNode.setParent(arFragment.getArSceneView().getScene());
 
-                    Node temp2 = new Node();
-                    temp2.setLocalPosition(new Vector3(0f , 0.5f, -1.5f ));
-                    temp2.setParent(anchorNode);
-                    temp2.setRenderable(lampPostRenderable);
         double x;
         double z;
         // saari values bohot choti hain
@@ -260,12 +261,27 @@ public class MainActivity<client> extends AppCompatActivity {
             toast.show();
         }
         double a = (double) sortingList.get(0).getDis();
+                    Node nameview=new Node();
+                    a=-a;
+                    nameview.setParent(anchorNode);
+                    nameview.setLocalPosition(new Vector3( 0f,1f,(float)a));
+                    nameview.setRenderable(txtbox1);
+                    TextView txt_name=(TextView)txtbox1.getView();
+                    txt_name.setText(sortingList.get(0).getName());
+                    txt_name.setOnClickListener(new View.OnClickListener(){
+                        @Override
+                        public void onClick(View v) {
+                            anchorNode.setParent(null);
+                        }
+                    });
+        Log.i("akadi"," "+a);
         if(sortingList.size()!=0) {
             for (int i = 1; i < sortingList.size(); i++) {  // looping 1 se start kari hai kyonki 0 toh already apan tap karenge isliye nahi chal rahe tha
                 double B = getAngle(sortingList.get(0), sortingList.get(i), 'b');
-                B = Math.toRadians(B); //baar baar radians mein kyon change kar raha hai
+                //B = Math.toRadians(B); //baar baar radians mein kyon change kar raha hai
+                Log.i("getRad","again "+B);
                 double C = getAngle(sortingList.get(0), sortingList.get(i), 'c');
-                C = Math.toRadians(C);
+                //C = Math.toRadians(C);
                 double c = 0;
 
                 c = getDistance((double) sortingList.get(0).getLat(), (double) sortingList.get(i).getLat(), (double) sortingList.get(0).getLon(),
@@ -293,35 +309,26 @@ public class MainActivity<client> extends AppCompatActivity {
                     if ((double) sortingList.get(i).getLon() > lon)
                         x = -x;
                 }
-                x /= 10;
-                z /= 10;
-                //if(i%4==0){ //try this condition
-
-                Node temp3 = new Node();
-                temp3.setLocalPosition(new Vector3((float) x, 2f, (float) z));
-                temp3.setParent(anchorNode);
-                temp3.setRenderable(lampPostRenderable);
-                Log.i("hello1","this is renderable"+i);
-
-                /*TextView txt_name = (TextView) txtbox1.getView(); // too fast for rendering faster compared to lampPostrenderable
-                txt_name.setText(sortingList.get(i).getName());txt_name.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View v) {
-                            anchorNode.setParent(null);
-                        }
-                    });
-                }*/
-               // Log.i("helloo21","this is renderable not"+i);
-
-
+                z+=a;
+                //x /= 10;
+                z /= 100;
+                Log.i("distttt",x+"  x was thsat z is this   "+z);
+                //Node nameview=new Node();
+                nameview.setParent(anchorNode);
+                nameview.setLocalPosition(new Vector3((float) x,1f,(float) -z));
+                nameview.setRenderable(txtbox1);
+                //TextView txt_name=(TextView)txtbox1.getView();
+                txt_name.setText(sortingList.get(i).getName());
+                txt_name.setOnClickListener(new View.OnClickListener(){
+                    @Override
+                    public void onClick(View v) {
+                        anchorNode.setParent(null);
+                    }
+                });
             }
         }
-
     });
 }
-
-
-
 
     public boolean checkIsSupportedDeviceOrFinish(final Activity activity) {
 
@@ -349,8 +356,6 @@ public class MainActivity<client> extends AppCompatActivity {
     public double getDistance(Double lat1,Double lat2,Double lon1,Double lon2)
     {
 
-        //Log.i("sssss"," lat1 "+ lat1+" lat2 "+lat2+" lon1 "+lon1+" lon2 "+lon2);
-
         lat1=Math.toRadians(lat1);
         lat2=Math.toRadians(lat2);
         lon1=Math.toRadians(lon1);
@@ -361,8 +366,6 @@ public class MainActivity<client> extends AppCompatActivity {
 
         final double R=6371500;
 
-        //Log.i("disss",R*Math.sqrt(a1+a2)+""+" lat1 "+ lat1+" lat2 "+lat2+" lon1 "+lon1+" lon2 "+lon2+" a1 "+a1+" a2 "+a2);
-
         return R*Math.sqrt(a1+a2);
     }
 
@@ -371,16 +374,10 @@ public class MainActivity<client> extends AppCompatActivity {
 
         client = LocationServices.getFusedLocationProviderClient(this);
 
-                /*DiskBasedCache cache = new DiskBasedCache(getCacheDir(), 1024 * 1024); // 1MB cap
-                BasicNetwork network = new BasicNetwork(new HurlStack());
-                RequestQueue requestQueue = new RequestQueue(cache, network);
-                requestQueue.start();*/
-
                 RequestQueue re = Volley.newRequestQueue(this);
 
 
                 URL = " http://overpass-api.de/api/interpreter?data=[out:json];(node(12.8133558,80.0323585,12.8333558,80.0523585);%3C;);out%20meta;";
-               // Log.i("ankit",URL);
 
 
 
@@ -393,13 +390,10 @@ public class MainActivity<client> extends AppCompatActivity {
                                     JSONObject node = (JSONObject) place.get(i);
                                     if (node.has("tags") && node.has("lat") && node.has("lon")) {
                                         JSONObject temp2 = (JSONObject) node.get("tags");
-                                        //Log.i("yo","3 "+temp2.toString());
                                         if (temp2.has("name")) {
                                             double d = getDistance(lat, (Double) node.get("lat"), lon, (Double) node.get("lon"));
-                                            Log.i("thiis",d+"");
                                             Result r = new Result(temp2.get("name").toString(),(Double) node.get("lat"),(Double) node.get("lon"),d);
                                             sortingList.add(r);
-                                            Log.i("yo","result "+sortingList.size());
                                         }
                                     }
                                 }
@@ -417,14 +411,10 @@ public class MainActivity<client> extends AppCompatActivity {
                                     return valA.compareTo(valB);
                                 } else return 1;
                             });
-                            //Log.i("ress","heelloo   "+sortingList.get(0).getDis()+" "+sortingList.get(1).getDis()+" "+sortingList.get(2).getDis());
-
-                            // Collections.sort(sortingList, );
 
                         }, error -> Log.i("error", error.getMessage()));
 
                 re.add(jsonObjectRequest);
-        //Log.i("done","ankit"+sortingList.get(0));
             }
 
     double getAngle(Result a1,Result a2, char x) {
@@ -442,8 +432,7 @@ public class MainActivity<client> extends AppCompatActivity {
             b = Math.pow(b, 2);
             c = Math.pow(c, 2);
             angle=(a-b+c)/den;
-
-           Log.i("ffff",angle+"  den "+den+"  a"+a+"     b"+b+"   c"+c);
+            Log.i("getRad","angle  "+ angle);
 
         }
         else if(x=='c')
@@ -453,7 +442,6 @@ public class MainActivity<client> extends AppCompatActivity {
             b = Math.pow(b, 2);
             c = Math.pow(c, 2);
             angle=(a+b-c)/den;
-            Log.i("angle",angle+"");
         }
         else if(x=='a')
         {
@@ -465,7 +453,7 @@ public class MainActivity<client> extends AppCompatActivity {
         }
 
         angle=Math.toRadians(angle);
-        Log.i("ttd",angle+""+x);
+        Log.i("getRad","angle final "+ angle);
         return angle;
         // see line comment 266
         // see all comments
