@@ -261,14 +261,17 @@ public class MainActivity<client> extends AppCompatActivity {
             toast.show();
         }
         double a = (double) sortingList.get(0).getDis();
-                    Node nameview=new Node();
+                    Node nameview1=new Node();
                     a=-a;
-                    nameview.setParent(anchorNode);
-                    nameview.setLocalPosition(new Vector3( 0f,1f,(float)a));
-                    nameview.setRenderable(txtbox1);
-                    TextView txt_name=(TextView)txtbox1.getView();
-                    txt_name.setText(sortingList.get(0).getName());
-                    txt_name.setOnClickListener(new View.OnClickListener(){
+                    a+=20;
+                    nameview1.setParent(anchorNode);
+                    nameview1.setLocalPosition(new Vector3( 0f,1f,(float)a));
+                    nameview1.setRenderable(txtbox1);
+                    TextView txt_nam1e=(TextView)txtbox1.getView();
+                    txt_nam1e.setText(sortingList.get(0).getName());
+                    Log.i("yo",sortingList.get(0).getName());
+
+                    txt_nam1e.setOnClickListener(new View.OnClickListener(){
                         @Override
                         public void onClick(View v) {
                             anchorNode.setParent(null);
@@ -313,18 +316,19 @@ public class MainActivity<client> extends AppCompatActivity {
                 //x /= 10;
                 z /= 100;
                 Log.i("distttt",x+"  x was thsat z is this   "+z);
-                //Node nameview=new Node();
+                /*Node nameview=new Node();
                 nameview.setParent(anchorNode);
                 nameview.setLocalPosition(new Vector3((float) x,1f,(float) -z));
                 nameview.setRenderable(txtbox1);
-                //TextView txt_name=(TextView)txtbox1.getView();
+                TextView txt_name=(TextView)txtbox1.getView();
                 txt_name.setText(sortingList.get(i).getName());
+                Log.i("yo",sortingList.get(i).getName());
                 txt_name.setOnClickListener(new View.OnClickListener(){
                     @Override
                     public void onClick(View v) {
                         anchorNode.setParent(null);
                     }
-                });
+                });*/
             }
         }
     });
