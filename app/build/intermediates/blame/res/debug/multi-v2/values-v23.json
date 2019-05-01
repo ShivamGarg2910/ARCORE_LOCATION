@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shivam Garg\\Documents\\LIC\\SetLocalPosition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\techolution\\AndroidStudioProjects\\ARCORE_LOCATION\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shivam Garg\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\8ec2f8a7fe52104fe8963612b2bc5f46\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\techolution\\.gradle\\caches\\transforms-2\\files-2.1\\eaf63680d6307e57ae4a8d8963528786\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shivam Garg\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\fe9e3341c8224880ea8d234290166116\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\techolution\\.gradle\\caches\\transforms-2\\files-2.1\\282d349b92da9eaa7112e85888613269\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shivam Garg\\Documents\\LIC\\SetLocalPosition-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rSV\\values-es-rSV.xml",
+            "outputFile": "C:\\Users\\techolution\\AndroidStudioProjects\\ARCORE_LOCATION\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rSV\\values-es-rSV.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shivam Garg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.8.0.aar\\30c7e789b338a3ca303ba038159fca1e\\res\\values-es-rSV\\values.xml",
+                    "source": "C:\\Users\\techolution\\.gradle\\caches\\transforms-2\\files-2.1\\b419ea74116471ff31163d4f8c8e69b5\\res\\values-es-rSV\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",

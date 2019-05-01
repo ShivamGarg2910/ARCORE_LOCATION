@@ -72,7 +72,8 @@ public class MainActivity<client> extends AppCompatActivity {
 
     ArFragment arFragment;
     ModelRenderable lampPostRenderable;
-    ViewRenderable txtbox1;
+    ViewRenderable txtbox1,txtbox2,txtbox3,txtbox4,txtbox5,txtbox6,txtbox7,txtbox8,txtbox9,txtbox10;
+
 
     @Override
     @SuppressWarnings({"AndroidApiChecker", "FutureReturnValueIgnored"})
@@ -94,8 +95,43 @@ public class MainActivity<client> extends AppCompatActivity {
         ViewRenderable.builder()
                 .setView(this,R.layout.textview1)
                 .build()
-                .thenAccept(renderable -> txtbox1 =renderable);
-
+                .thenAccept(renderable ->  txtbox1 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox2 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox3 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox4 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox5 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox6 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox7 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox8 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox9 =renderable);
+        ViewRenderable.builder()
+                .setView(this,R.layout.textview1)
+                .build()
+                .thenAccept(renderable ->  txtbox10 =renderable);
 
         ModelRenderable.builder()
                 .setSource(this, Uri.parse("Picture frame.sfb"))
@@ -109,158 +145,28 @@ public class MainActivity<client> extends AppCompatActivity {
                     return null;
                 });
 
-        {
-
-        /*try {
-            if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-                throw (new Exception());
-            }
-            client.getLastLocation().addOnSuccessListener(MainActivity.this, location -> {
-                if (location != null) {
-                    lat = location.getLatitude();
-                    lon = location.getLongitude();
-
-                    Log.i("ankit",lat+" "+lon+ "weqweqwewqeqwweqwe");
-
-                    try {
-
-                        getData();
-                        File file = new File(getApplicationContext().getCacheDir(), "POI_dir");
-
-                        FileInputStream inputStream = new FileInputStream(file);
-
-                        final BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-
-                        final StringBuilder stringBuilder = new StringBuilder();
-
-                        boolean done = false;
-
-                        while (!done) {
-                            final String line = reader.readLine();
-                            done = (line == null);
-
-                            if (line != null) {
-                                stringBuilder.append(line);
-                            }
-                        }
-                        *//*if(stringBuilder.length()==0)
-                        {
-                            Toast toast =
-                                    Toast.makeText(this, "no size", Toast.LENGTH_LONG);
-                            toast.setGravity(Gravity.CENTER, 0, 0);
-                            toast.show();
-                        }*//*
-                        Log.i("ankit",stringBuilder.toString());
-
-
-
-                        //Log.d("checkdata", "value:"+stringBuilder.toString());
-                        reader.close();
-                        inputStream.close();
-
-
-                        JSONObject jsonobj = (JSONObject) new JSONObject(stringBuilder.toString());
-                        JSONArray place = (JSONArray) jsonobj.get("elements");
-
-                        for (int i = 0; i < place.length(); i++) {
-                            Object temp = place.get(i);
-                            JSONObject node = (JSONObject) temp;
-                            if (node.get("tags") != null && node.get("lat") != null && node.get("lon") != null) {
-                                JSONObject temp2 = (JSONObject) node.get("tags");
-                                if (temp2.get("name") != null ) {
-                                    double d = getDistance(lat, (Double) node.get("lat"), lon, (Double) node.get("lon"));
-                                    node.put("distance", d);
-                                    sortingList.add(node);
-                                }
-                            }
-                        }
-
-                        //Thread.sleep(1000);
-                    } catch (ParseException e) {
-                        e.printStackTrace();
-                    } catch (FileNotFoundException e) {
-                        e.printStackTrace();
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    } catch (JSONException e) {
-                        e.printStackTrace();
-                    }
-                }
-            });
-        }
-        catch (Exception e) {
-            e.printStackTrace();
-        }*/
-
-
-            /*Collections.sort(sortingList, (a, b) -> {
-                Double valA = null;
-                Double valB = null;
-                try {
-                    valA = (Double) a.get("distance");
-                    valB = (Double) b.get("distance");
-                } catch (JSONException e) {
-                    e.printStackTrace();
-                } finally {
-
-                }
-
-                if (valA != null) {
-                    return valA.compareTo(valB);
-                } else return 1;
-
-            });*/
-
-
-        /*for(Object node: sortingList)
-        {
-            StringBuilder out=new StringBuilder();
-            String temp= node.toString();
-            out.append("end");
-            out.append(temp);
-            TextView textView=findViewById(R.id.test_View);
-            textView.setText(out.toString());
-        }*/
-
-
-
-/*        Object node= sortingList.get(0);
-        JSONObject temp= (JSONObject) node;
-        temp.get("tags");
-        StringBuilder str=new StringBuilder();
-        str.append("Face towards ");
-        str.append(temp.get("name"));
-        str.append(" and select a surface");*/
-
-
-    }
-
-
-
         arFragment.setOnTapArPlaneListener(
                 (HitResult hitresult, Plane plane, MotionEvent motionevent) -> {
 
                     if (lampPostRenderable == null) {
                         return;
                     }
-
                     Anchor anchor = hitresult.createAnchor();
                     AnchorNode anchorNode = new AnchorNode(anchor);
                     //anchorNode.setLocalPosition(Vector3.zero());
                     anchorNode.setParent(arFragment.getArSceneView().getScene());
-
-        double x;
-        double z;
-        // saari values bohot choti hain
-        if(sortingList.size()==0)
-        {
-            Toast toast = Toast.makeText(this, "no location", Toast.LENGTH_LONG);
-            toast.show();
-        }else{
-            Toast toast = Toast.makeText(this, sortingList.size()+"", Toast.LENGTH_LONG);
-            toast.show();
-        }
-        double a = (double) sortingList.get(0).getDis();
+                    double x;
+                    double z;
+                    // saari values bohot choti hain
+                    if(sortingList.size()==0)
+                    {
+                        Toast toast = Toast.makeText(this, "no location", Toast.LENGTH_LONG);
+                        toast.show();
+                    }else{
+                        Toast toast = Toast.makeText(this, sortingList.size()+"", Toast.LENGTH_LONG);
+                        toast.show();
+                    }
+                    double a = (double) sortingList.get(0).getDis();
                     Node nameview1=new Node();
                     a=-a;
                     a+=20;
@@ -271,68 +177,106 @@ public class MainActivity<client> extends AppCompatActivity {
                     txt_nam1e.setText(sortingList.get(0).getName());
                     Log.i("yo",sortingList.get(0).getName());
 
-                    txt_nam1e.setOnClickListener(new View.OnClickListener(){
-                        @Override
-                        public void onClick(View v) {
-                            anchorNode.setParent(null);
+                    Log.i("akadi"," "+a);
+                    if(sortingList.size()!=0) {
+                        //txtbox2 = new ViewRenderable[3];
+                        /*for (int i = 0; i < 4; i++){
+                            int finalI = i;
+                            ViewRenderable.builder()
+                                    .setView(this,R.layout.textview1)
+                                    .build()
+                                    .thenAccept(renderable ->  txtbox2[finalI] =renderable);
+                            Log.i("yo",txtbox2[finalI]+"");
+                        }*/
+                        int x1;
+                        if(sortingList.size()>10)
+                            x1 = 10;
+                        else
+                            x1 = sortingList.size();
+                        for (int i = 1; i < x1; i++) {  // looping 1 se start kari hai kyonki 0 toh already apan tap karenge isliye nahi chal rahe tha
+                            Log.i("yo","qweqw");
+                            //ViewRenderable v=txtbox2[i];
+
+                            double B = getAngle(sortingList.get(0), sortingList.get(i), 'b');
+                            //B = Math.toRadians(B); //baar baar radians mein kyon change kar raha hai
+                            Log.i("getRad","again "+B);
+                            double C = getAngle(sortingList.get(0), sortingList.get(i), 'c');
+                            //C = Math.toRadians(C);
+                            double c = 0;
+                            c = getDistance((double) sortingList.get(0).getLat(), (double) sortingList.get(i).getLat(), (double) sortingList.get(0).getLon(),
+                                    (double) sortingList.get(i).getLon());
+                            double b = (double) sortingList.get(i).getDis();
+                            if (C < 90) {
+                                x = c * Math.sin(B);
+                                z = c * Math.cos(B);
+                            } else if (C > 90) {
+                                x = c * Math.cos(B);
+                                z = c * Math.sin(B);
+                            } else {
+                                x = b;
+                                z = a;
+                            }
+
+                            if ((double) sortingList.get(0).getLat() > lat) {
+                                if ((double) sortingList.get(i).getLon() < lon)
+                                    x = -x;
+                            } else {
+                                if ((double) sortingList.get(i).getLon() > lon)
+                                    x = -x;
+                            }
+                            z+=a;
+                            //x /= 10;
+                            z /= 100;
+                            Log.i("distttt",x+"  x was thsat z is this   "+z);
+                            Node nameview=new Node();
+
+                            TextView txt_name = null;
+                            switch (i){
+                                case 1:
+                                    txt_name=(TextView)txtbox2.getView();
+                                    nameview.setRenderable(txtbox2);
+                                    break;
+                                case 2:
+                                    txt_name=(TextView)txtbox3.getView();
+                                    nameview.setRenderable(txtbox3);
+                                    break;
+                                case 3:
+                                    txt_name=(TextView)txtbox4.getView();
+                                    nameview.setRenderable(txtbox4);
+                                    break;
+                                case 4:
+                                    txt_name=(TextView)txtbox5.getView();
+                                    nameview.setRenderable(txtbox5);
+                                    break;
+                                case 5:
+                                    txt_name=(TextView)txtbox6.getView();
+                                    nameview.setRenderable(txtbox6);
+                                    break;
+                                case 6:
+                                    txt_name=(TextView)txtbox7.getView();
+                                    nameview.setRenderable(txtbox7);
+                                    break;
+                                case 7:
+                                    txt_name=(TextView)txtbox8.getView();
+                                    nameview.setRenderable(txtbox8);
+                                    break;
+                                case 8:
+                                    txt_name=(TextView)txtbox9.getView();
+                                    nameview.setRenderable(txtbox9);
+                                    break;
+                                case 9:
+                                    txt_name=(TextView)txtbox10.getView();
+                                    nameview.setRenderable(txtbox10);
+                                    break;
+                            }
+                            txt_name.setText(sortingList.get(i).getName());
+                            Log.i("yo",sortingList.get(i).getName());
+                            nameview.setParent(anchorNode);
+                            nameview.setLocalPosition(new Vector3((float) x,1f,(float) -z));
                         }
-                    });
-        Log.i("akadi"," "+a);
-        if(sortingList.size()!=0) {
-            for (int i = 1; i < sortingList.size(); i++) {  // looping 1 se start kari hai kyonki 0 toh already apan tap karenge isliye nahi chal rahe tha
-                double B = getAngle(sortingList.get(0), sortingList.get(i), 'b');
-                //B = Math.toRadians(B); //baar baar radians mein kyon change kar raha hai
-                Log.i("getRad","again "+B);
-                double C = getAngle(sortingList.get(0), sortingList.get(i), 'c');
-                //C = Math.toRadians(C);
-                double c = 0;
-
-                c = getDistance((double) sortingList.get(0).getLat(), (double) sortingList.get(i).getLat(), (double) sortingList.get(0).getLon(),
-                        (double) sortingList.get(i).getLon());
-
-
-                double b = (double) sortingList.get(i).getDis();
-
-
-                if (C < 90) {
-                    x = c * Math.sin(B);
-                    z = c * Math.cos(B);
-                } else if (C > 90) {
-                    x = c * Math.cos(B);
-                    z = c * Math.sin(B);
-                } else {
-                    x = b;
-                    z = a;
-                }
-
-                if ((double) sortingList.get(0).getLat() > lat) {
-                    if ((double) sortingList.get(i).getLon() < lon)
-                        x = -x;
-                } else {
-                    if ((double) sortingList.get(i).getLon() > lon)
-                        x = -x;
-                }
-                z+=a;
-                //x /= 10;
-                z /= 100;
-                Log.i("distttt",x+"  x was thsat z is this   "+z);
-                /*Node nameview=new Node();
-                nameview.setParent(anchorNode);
-                nameview.setLocalPosition(new Vector3((float) x,1f,(float) -z));
-                nameview.setRenderable(txtbox1);
-                TextView txt_name=(TextView)txtbox1.getView();
-                txt_name.setText(sortingList.get(i).getName());
-                Log.i("yo",sortingList.get(i).getName());
-                txt_name.setOnClickListener(new View.OnClickListener(){
-                    @Override
-                    public void onClick(View v) {
-                        anchorNode.setParent(null);
                     }
-                });*/
-            }
-        }
-    });
-}
+                });
+    }
 
     public boolean checkIsSupportedDeviceOrFinish(final Activity activity) {
 
@@ -378,48 +322,49 @@ public class MainActivity<client> extends AppCompatActivity {
 
         client = LocationServices.getFusedLocationProviderClient(this);
 
-                RequestQueue re = Volley.newRequestQueue(this);
+        RequestQueue re = Volley.newRequestQueue(this);
 
 
-                URL = " http://overpass-api.de/api/interpreter?data=[out:json];(node(12.8133558,80.0323585,12.8333558,80.0523585);%3C;);out%20meta;";
+        URL = " http://overpass-api.de/api/interpreter?data=[out:json];(node(12.8133558,80.0323585,12.8333558,80.0523585);%3C;);out%20meta;";
 
 
 
-                JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, URL, null,
-                        response -> {
-                        try {
-                                JSONArray place = null;
-                                place = (JSONArray) response.get("elements");
-                                for (int i = 0; i < place.length(); i++) {
-                                    JSONObject node = (JSONObject) place.get(i);
-                                    if (node.has("tags") && node.has("lat") && node.has("lon")) {
-                                        JSONObject temp2 = (JSONObject) node.get("tags");
-                                        if (temp2.has("name")) {
-                                            double d = getDistance(lat, (Double) node.get("lat"), lon, (Double) node.get("lon"));
-                                            Result r = new Result(temp2.get("name").toString(),(Double) node.get("lat"),(Double) node.get("lon"),d);
-                                            sortingList.add(r);
-                                        }
-                                    }
+        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, URL, null,
+                response -> {
+                    try {
+                        JSONArray place = null;
+                        place = (JSONArray) response.get("elements");
+                        for (int i = 0; i < place.length(); i++) {
+                            JSONObject node = (JSONObject) place.get(i);
+                            if (node.has("tags") && node.has("lat") && node.has("lon")) {
+                                JSONObject temp2 = (JSONObject) node.get("tags");
+                                if (temp2.has("name")) {
+                                    double d = getDistance(lat, (Double) node.get("lat"), lon, (Double) node.get("lon"));
+                                    Result r = new Result(temp2.get("name").toString(),(Double) node.get("lat"),(Double) node.get("lon"),d);
+                                    sortingList.add(r);
                                 }
-
-                            } catch (JSONException e) {
-                                Log.i("yo",e.getMessage());
-                                e.printStackTrace();
                             }
-                            Collections.sort(sortingList, (a, b) -> {
-                                Double valA = null;
-                                Double valB = null;
-                                valA =  a.getDis();
-                                valB =  b.getDis();
-                                if (valA != null) {
-                                    return valA.compareTo(valB);
-                                } else return 1;
-                            });
+                        }
+                        Toast.makeText(this,"data is loaded",Toast.LENGTH_SHORT).show();
 
-                        }, error -> Log.i("error", error.getMessage()));
+                    } catch (JSONException e) {
+                        Log.i("yo",e.getMessage());
+                        e.printStackTrace();
+                    }
+                    Collections.sort(sortingList, (a, b) -> {
+                        Double valA = null;
+                        Double valB = null;
+                        valA =  a.getDis();
+                        valB =  b.getDis();
+                        if (valA != null) {
+                            return valA.compareTo(valB);
+                        } else return 1;
+                    });
 
-                re.add(jsonObjectRequest);
-            }
+                }, error -> Log.i("error", error.getMessage()));
+
+        re.add(jsonObjectRequest);
+    }
 
     double getAngle(Result a1,Result a2, char x) {
         double a= a1.getDis();
